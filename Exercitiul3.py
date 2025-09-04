@@ -1,0 +1,12 @@
+import pandas as pd
+df = pd.read_csv('industry.csv', dtype= {"ID": str})
+print("Aici citim csv.ul")
+print(df)
+print("---------------------")
+print("Aici citim primele 5 lini din csv")
+print(df.head())
+print("---------------------")
+print(df.dtypes)
+print("---------------------")
+print("Numarul Valorilor Na")
+print(df.isna().sum())
