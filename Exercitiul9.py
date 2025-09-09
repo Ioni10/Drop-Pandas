@@ -12,7 +12,7 @@ df = pd.DataFrame(
         "Kg":[60,54,34,59,78,49,30, np.nan ,101,100,70,30,79,60]
     }
 )
-serie= df["Varsta"]
+
 
 groupby_Kg_count= df.groupby("Kg").count()
 groupby_Sex_Varsta_mean =df.groupby("Sex")["Varsta"].mean()
