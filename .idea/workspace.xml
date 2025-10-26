@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dbbf98c-8e61-4318-ab58-6d543976ab13" name="Changes" comment="&quot;Push Ex: 21&quot;" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ioni10&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ioni10/Drop-Pandas.git&quot;,
+    &quot;accountId&quot;: &quot;e4d40820-537f-4986-8d19-4cc97d6a19ee&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="32ECdZnZAhNjRz5vBOGMCYFu8NY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Exercitiul1.executor": "Run",
+    "Python.Exercitiul10.executor": "Run",
+    "Python.Exercitiul11.executor": "Run",
+    "Python.Exercitiul12.executor": "Run",
+    "Python.Exercitiul13.executor": "Run",
+    "Python.Exercitiul14.executor": "Run",
+    "Python.Exercitiul15.executor": "Run",
+    "Python.Exercitiul16.executor": "Run",
+    "Python.Exercitiul17.executor": "Run",
+    "Python.Exercitiul18.executor": "Run",
+    "Python.Exercitiul19.executor": "Run",
+    "Python.Exercitiul2.executor": "Run",
+    "Python.Exercitiul2.py.executor": "Run",
+    "Python.Exercitiul20.executor": "Run",
+    "Python.Exercitiul21.executor": "Run",
+    "Python.Exercitiul3.executor": "Run",
+    "Python.Exercitiul4.executor": "Run",
+    "Python.Exercitiul5.executor": "Run",
+    "Python.Exercitiul6.executor": "Run",
+    "Python.Exercitiul8.executor": "Run",
+    "Python.Exercitiul9.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Exercitiul2" type="PythonConfigurationType" factoryName="Python">
+      <module name="Drop-Pandas" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d2614ccfe7c8-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.28774.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dbbf98c-8e61-4318-ab58-6d543976ab13" name="Changes" comment="" />
+      <created>1756976434727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756976434727</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Push Ex: 6&quot;">
+      <option name="closed" value="true" />
+      <created>1757427555902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757427555902</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Push Ex: 7&quot;">
+      <option name="closed" value="true" />
+      <created>1757429020807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757429020807</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;Push Ex: 8&quot;">
+      <option name="closed" value="true" />
+      <created>1757430669116</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757430669116</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;Push Ex: 9&quot;">
+      <option name="closed" value="true" />
+      <created>1757442168475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757442168475</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;Push Ex: 10&quot;">
+      <option name="closed" value="true" />
+      <created>1757504637407</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757504637407</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;Push Ex: 11&quot;">
+      <option name="closed" value="true" />
+      <created>1757506411309</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757506411309</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;Push Ex: 12&quot;">
+      <option name="closed" value="true" />
+      <created>1760028819438</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760028819438</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;Push Ex: 13&quot;">
+      <option name="closed" value="true" />
+      <created>1760030173909</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760030173909</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;Push Ex: 14&quot;">
+      <option name="closed" value="true" />
+      <created>1760030975525</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1760030975525</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&quot;Push Ex: 15&quot;">
+      <option name="closed" value="true" />
+      <created>1760750515957</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1760750515957</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&quot;Push Ex: 16&quot;">
+      <option name="closed" value="true" />
+      <created>1760751294405</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1760751294405</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&quot;Push Ex: 17&quot;">
+      <option name="closed" value="true" />
+      <created>1760752058090</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1760752058090</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&quot;Push Ex: 18&quot;">
+      <option name="closed" value="true" />
+      <created>1760753372785</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1760753372785</updated>
+    </task>
+    <task id="LOCAL-00014" summary="&quot;Push Ex: 19&quot;">
+      <option name="closed" value="true" />
+      <created>1760754059431</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1760754059431</updated>
+    </task>
+    <task id="LOCAL-00015" summary="&quot;Push Ex: 20&quot;">
+      <option name="closed" value="true" />
+      <created>1760755232677</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1760755232677</updated>
+    </task>
+    <task id="LOCAL-00016" summary="&quot;Push Ex: 21&quot;">
+      <option name="closed" value="true" />
+      <created>1761485161678</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1761485161679</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Push Ex: 6&quot;" />
+    <MESSAGE value="&quot;Push Ex: 7&quot;" />
+    <MESSAGE value="&quot;Push Ex: 8&quot;" />
+    <MESSAGE value="&quot;Push Ex: 9&quot;" />
+    <MESSAGE value="&quot;Push Ex: 10&quot;" />
+    <MESSAGE value="&quot;Push Ex: 11&quot;" />
+    <MESSAGE value="&quot;Push Ex: 12&quot;" />
+    <MESSAGE value="&quot;Push Ex: 13&quot;" />
+    <MESSAGE value="&quot;Push Ex: 14&quot;" />
+    <MESSAGE value="&quot;Push Ex: 15&quot;" />
+    <MESSAGE value="&quot;Push Ex: 16&quot;" />
+    <MESSAGE value="&quot;Push Ex: 17&quot;" />
+    <MESSAGE value="&quot;Push Ex: 18&quot;" />
+    <MESSAGE value="&quot;Push Ex: 19&quot;" />
+    <MESSAGE value="&quot;Push Ex: 20&quot;" />
+    <MESSAGE value="&quot;Push Ex: 21&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Push Ex: 21&quot;" />
+  </component>
+</project>
